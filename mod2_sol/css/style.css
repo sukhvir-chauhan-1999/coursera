@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+}
+/*base styling*/
+
+h1{
+	font-family: arial serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	color:brown;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+div{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+section{
+	font-weight: 200;
+	font-size:16px;
+	background-color: gray;
+	color: white;
+	border: 1px solid black;
+	padding: 5px;
+
+}
