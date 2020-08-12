@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"window"
+			],
+			[
+				"b",
+				"byeSpeaker"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"mt",
+				"meta\tTag"
+			],
+			[
+				"col-",
+				"col-tb-6"
+			],
+			[
+				"c",
+				"col-lg-4"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pla",
+				"playercards"
+			],
+			[
+				"p",
+				"playercards"
+			],
+			[
+				"points_",
+				"points_player"
+			],
+			[
+				"pi",
+				"points_player"
+			],
+			[
+				"po",
+				"points_comp"
+			],
+			[
+				"player",
+				"points_player"
+			],
+			[
+				"point",
+				"points_comp"
+			],
+			[
+				"poi",
+				"points_player"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"dis",
+				"displaystudent"
+			],
+			[
+				"de",
+				"department"
+			],
+			[
+				"no",
+				"no"
+			],
+			[
+				"D",
+				"Department"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"sc",
+				"Scanner"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"Number",
+				"NumberFormatException"
+			],
+			[
+				"stude",
+				"studentmoreinfo"
+			],
+			[
+				"stu",
+				"studentresult"
+			],
+			[
+				"area",
+				"area1"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"re",
+				"rectangle"
+			],
+			[
+				"g",
+				"gm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/index.html",
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/script.js",
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/SpeakGoodBye.js",
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/SpeakHello.js",
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/easier",
+		"/home/sukhvir/Desktop/fullstack-course4/assignments/assignment4/Assignment-4.md",
+		"/home/sukhvir/coursera/mod2_sol/css/style.css",
+		"/home/sukhvir/coursera/mod2_sol/index.html",
+		"/home/sukhvir/coursera/mod2_sol/css/it202-assignment.c",
+		"/home/sukhvir/coursera/index.html",
+		"/home/sukhvir/Desktop/webie/two-column.html",
+		"/home/sukhvir/Desktop/webie/two-column.css",
+		"/home/sukhvir/Desktop/webie/sttyle.css",
+		"/home/sukhvir/Desktop/webie/example.html",
+		"/home/sukhvir/Desktop/webie/index.html",
+		"/home/sukhvir/Desktop/blackproject/table.py",
+		"/home/sukhvir/Desktop/blackproject/actions.py",
+		"/home/sukhvir/Downloads/191IT253/lab5/lab5p2/college.java",
+		"/home/sukhvir/Downloads/191IT253/lab5/lab5p2/blackjack.py",
+		"/home/sukhvir/Downloads/236/191IT236-20200612T060119Z-001/191IT236/pa.cpp",
+		"/home/sukhvir/Downloads/236/191IT236-20200612T060119Z-001/191IT236/p3_1.cpp",
+		"/home/sukhvir/Downloads/236/191IT236-20200612T060119Z-001/191IT236/p1.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab5/lab5p2/collage.class",
+		"/home/sukhvir/Downloads/191IT253/lab5/college.java",
+		"/home/sukhvir/Downloads/191IT253/lab5/student.java",
+		"/home/sukhvir/Downloads/191IT253/lab5/lab5p2/student/student.class",
+		"/home/sukhvir/Downloads/191IT253/lab5/faculty.java",
+		"/home/sukhvir/Downloads/191IT253/lab5/result.java",
+		"/home/sukhvir/Downloads/labs/191IT253/lab1/Area.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/fahrenheit.cpp",
+		"/home/sukhvir/sample.py",
+		"/home/sukhvir/Downloads/191IT253/lab1/time.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab3/shape.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/area.cpp",
+		"/tmp/mozilla_sukhvir0/result.class",
+		"/home/sukhvir/Downloads/191IT253/result.java",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/multiple.cpp",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/multilevel.cpp",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/hybrid.cpp",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/student2.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab3/calculator.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab3/lab3p2.cpp",
+		"/home/sukhvir/Downloads/191IT253/inheritance.cpp",
+		"/home/sukhvir/Downloads/191IT253/car.class",
+		"/home/sukhvir/Downloads/191IT253/area.class",
+		"/home/sukhvir/Downloads/191IT253/bank.java",
+		"/home/sukhvir/Downloads/191IT253/Area(1).class",
+		"/home/sukhvir/Downloads/191IT253/lab3p2.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/student.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/student2.cpp",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/singlelevel.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/shape.cpp",
+		"/home/sukhvir/Downloads/191IT253/lab1/employee.cpp",
+		"/home/sukhvir/Downloads/191IT253/calculator.cpp",
+		"/home/sukhvir/Downloads/191IT253/typesofinhertance/hierarchial.cpp",
+		"/home/sukhvir/Downloads/191IT253/operatoroverload.cpp",
+		"/home/sukhvir/p1.cpp",
+		"/home/sukhvir/untitled.c",
+		"/home/sukhvir/helloworld.java",
+		"/home/sukhvir/first.c"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Null"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"null"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "easier.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
